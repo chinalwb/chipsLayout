@@ -1,5 +1,7 @@
 # chipsLayout
-Android chips layout which follow the latest Material Design of Chips
+Android chips layout which follow the latest Material Design of [Chips]
+[Chips] http://www.google.com/design/spec/components/chips.html
+
 
 ![image](https://raw.githubusercontent.com/chinalwb/chipsLayout/master/imgs/P1.png)
 ![image](https://raw.githubusercontent.com/chinalwb/chipsLayout/master/imgs/P2.png)
