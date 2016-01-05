@@ -1,9 +1,9 @@
 # chipsLayout
 Android chips layout which follow the latest Material Design of Chips
 
-![image](https://github.com/chinalwb/chipsLayout/tree/master/imgs/P1.png)
-![image](https://github.com/chinalwb/chipsLayout/tree/master/imgs/P2.png)
-![image](https://github.com/chinalwb/chipsLayout/tree/master/imgs/P3.png)
+![image](https://raw.githubusercontent.com/chinalwb/chipsLayout/master/imgs/P1.png)
+![image](https://raw.githubusercontent.com/chinalwb/chipsLayout/master/imgs/P2.png)
+![image](https://raw.githubusercontent.com/chinalwb/chipsLayout/master/imgs/P3.png)
 
 This layout can show multiple chips in several lines, and at the end of the chips, 
 there is an EditText, which accepts user's input and can do anything in the TextWatcher.
