@@ -1,6 +1,5 @@
 # chipsLayout
-[Chips]: http://www.google.com/design/spec/components/chips.html ""
-Android chips layout which follow the latest Material Design of [Chips]
+Android chips layout which follow the latest Material Design of [Chips](http://www.google.com/design/spec/components/chips.html "Chips")
 
 
 
